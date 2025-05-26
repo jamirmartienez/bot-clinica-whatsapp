@@ -1,0 +1,16 @@
+
+{
+  "name": "bot-clinica-base",
+  "version": "1.0.0",
+  "description": "Bot base para clínica en WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jamir & ChatGPT",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "4.4.0",
+    "@hapi/boom": "^10.0.1"
+  }
+}
